@@ -4,7 +4,8 @@ Rizqi Khoirurrohman
 <p align="center">
 FullStack Developer, Pixel artist
 </p>
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=khoirxz)](https://holopin.io/@khoirxz)
+
+[![@khoirxz's Holopin board](https://holopin.io/api/user/board?user=khoirxz)](https://holopin.io/@khoirxz)
 
 👋 Hello, may I help you? 😁
 
