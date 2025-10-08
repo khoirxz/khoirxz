@@ -1,5 +1,5 @@
 # 💫 About Me:
-# FullStack Developer, Pixel artist<br><br>[![@khoirxz's Holopin board](https://holopin.io/api/user/board?user=khoirxz)](https://holopin.io/@khoirxz)<br><br>👋 Hello, may I help you? 😁<br>
+# FullStack Developer, Pixel artist<br><br>[![An image of @khoirxz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/khoirxz)](https://holopin.io/@khoirxz)<br><br>👋 Hello, may I help you? 😁<br>
 
 
 ## 🌐 Socials:
